@@ -3,3 +3,5 @@
 3. [Object-Oriented Relationships](https://youtu.be/tJw_i55RWvA) | [Code](https://github.com/learn-co-students/web-010818/tree/master/04_oo_relationships)
 4. [OO Review](https://youtu.be/DWsXqpz7oag) | [Code](https://github.com/learn-co-students/web-010818/tree/master/05_more_oo)
 5. [OO Has Many](https://youtu.be/BIrId4q371o) | [Code](https://github.com/learn-co-students/web-010818/tree/master/05_more_oo)
+6. [OO Relations](https://youtu.be/yR5fVeQbejQ)
+7. [OO inheritance](https://youtu.be/ISTaLStj_Ik)
