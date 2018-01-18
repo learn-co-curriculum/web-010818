@@ -16,42 +16,42 @@
 
 ## Tuesday, January 16, 2018
 
+## Wednesday, January 17, 2018
+
+## Thursday, January 18, 2018
+
 * Fei Hafferkamp
 * Fara Obatusin
 * Torre Johnson
 * Travis Redwood
 
-## Wednesday, January 17, 2018
-
-## Thursday, January 18, 2018
+## Friday, January 19, 2018
 
 * Kristina Diamond
 * Matt Jackson
 * Morganne Gagne
 * Katy Carr
 
-## Friday, January 19, 2018
+## Monday, January 22, 2018
 
 * Josh Deiner
 * Cristy Lucke
 * Declanm Mulligan
 * Osama Miro
 
-## Monday, January 22, 2018
+## Tuesday, January 23, 2018
 
 * Vic Patel
 * Alexander Gutterman
 * Alex Katalkin
 * Jonathan Mines
 
-## Tuesday, January 23, 2018
+## Wednesday, January 24, 2018
 
 * Christina Collura
 * Bryan Ortiz
 * Anna Yang
 * Joshua Ticzon
-
-## Wednesday, January 24, 2018
 
 ## Thursday, January 25, 2018
 
