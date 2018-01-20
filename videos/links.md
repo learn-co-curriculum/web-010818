@@ -7,3 +7,4 @@
 7. [OO inheritance](https://youtu.be/ISTaLStj_Ik) | [Code](https://github.com/learn-co-students/web-010818/tree/master/07_inheritance)
 8. Active Record | [Code](https://github.com/learn-co-students/web-010818/tree/master/08_activerecord)
 9. [Active Record: _has_many_through_ ](https://www.youtube.com/watch?v=SuJOaIYwyAY) | [Code](https://github.com/learn-co-students/web-010818/tree/master/09_activerecord_has_many_through)
+10. [OO - Review](https://youtu.be/aTCmK5-7j5I)
