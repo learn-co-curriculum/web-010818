@@ -2,22 +2,6 @@
 
 # Module 1
 
-## Monday, January 8, 2018
-
-## Tuesday, January 9, 2018
-
-## Wednesday, January 10, 2018
-
-## Thursday, January 11, 2018
-
-## Friday, January 12, 2018
-
-## Monday, January 15, 2018
-
-## Tuesday, January 16, 2018
-
-## Wednesday, January 17, 2018
-
 ## Thursday, January 18, 2018
 
 * Fei Hafferkamp
@@ -49,13 +33,9 @@
 ## Wednesday, January 24, 2018
 
 * Christina Collura
-* Bryan Ortiz
+* Tania Aparicio
 * Anna Yang
 * Joshua Ticzon
-
-## Thursday, January 25, 2018
-
-## Friday, January 26, 2018
 
 # Module 2
 
@@ -83,8 +63,6 @@
 * Declanm Mulligan
 * Osama Miro
 
-## Friday, February 2, 2018
-
 ## Monday, February 5, 2018
 
 * Vic Patel
@@ -95,30 +73,14 @@
 
 * Jonathan Mines
 * Christina Collura
-* Bryan Ortiz
+* Tania Aparicio
 
 ## Wednesday, February 7, 2018
 
 * Anna Yang
 * Joshua Ticzon
 
-## Thursday, February 8, 2018
-
-## Friday, February 9, 2018
-
-## Monday, February 12, 2018
-
-## Tuesday, February 13, 2018
-
-## Wednesday, February 14, 2018
-
-## Thursday, February 15, 2018
-
-## Friday, February 16, 2018
-
 # Module 3
-
-## Monday, February 19, 2018
 
 ## Tuesday, February 20, 2018
 
@@ -154,26 +116,12 @@
 
 * Jonathan Mines
 * Christina Collura
-* Bryan Ortiz
+* Tania Aparicio
 
 ## Wednesday, February 28, 2018
 
 * Anna Yang
 * Joshua Ticzon
-
-## Thursday, March 1, 2018
-
-## Friday, March 2, 2018
-
-## Monday, March 5, 2018
-
-## Tuesday, March 6, 2018
-
-## Wednesday, March 7, 2018
-
-## Thursday, March 8, 2018
-
-## Friday, March 9, 2018
 
 # Module 4
 
@@ -201,8 +149,6 @@
 * Declanm Mulligan
 * Osama Miro
 
-## Friday, March 16, 2018
-
 ## Monday, March 19, 2018
 
 * Vic Patel
@@ -213,26 +159,12 @@
 
 * Jonathan Mines
 * Christina Collura
-* Bryan Ortiz
+* Tania Aparicio
 
 ## Wednesday, March 21, 2018
 
 * Anna Yang
 * Joshua Ticzon
-
-## Thursday, March 22, 2018
-
-## Friday, March 23, 2018
-
-## Monday, March 26, 2018
-
-## Tuesday, March 27, 2018
-
-## Wednesday, March 28, 2018
-
-## Thursday, March 29, 2018
-
-## Friday, March 30, 2018
 
 # Module 5
 
@@ -267,26 +199,6 @@
 ## Friday, April 6, 2018
 
 * Christina Collura
-* Bryan Ortiz
+* Tania Aparicio
 * Anna Yang
 * Joshua Ticzon
-
-## Monday, April 9, 2018
-
-## Tuesday, April 10, 2018
-
-## Wednesday, April 11, 2018
-
-## Thursday, April 12, 2018
-
-## Friday, April 13, 2018
-
-## Monday, April 16, 2018
-
-## Tuesday, April 17, 2018
-
-## Wednesday, April 18, 2018
-
-## Thursday, April 19, 2018
-
-## Friday, April 20, 2018
