@@ -9,5 +9,5 @@
 9. [Active Record: _has_many_through_ ](https://www.youtube.com/watch?v=SuJOaIYwyAY) | [Code](https://github.com/learn-co-students/web-010818/tree/master/09_activerecord_has_many_through)
 10. [OO - Review](https://youtu.be/aTCmK5-7j5I)
 11. [Testing!!](https://youtu.be/Q5ZFVeD6RaQ) | [Code](https://github.com/learn-co-students/web-010818/tree/master/10_testing_with_rspec)
-12. [Cli app to Rack App](http://youtu.be/lQxlNy-zxU8) | _Code coming soon..._
+12. [Cli app to Rack App](http://youtu.be/lQxlNy-zxU8) | [Code](https://github.com/learn-co-students/web-010818/tree/master/11_rack_example)
 13. [Sinatra MVC](https://youtu.be/mJFJYYxpCSc) | [Code](https://github.com/learn-co-students/web-010818/tree/master/12_sinatra_mvc)
