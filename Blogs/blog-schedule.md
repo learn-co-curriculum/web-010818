@@ -33,7 +33,6 @@
 ## Wednesday, January 24, 2018
 
 * Christina Collura
-* Tania Aparicio
 * Anna Yang
 * Joshua Ticzon
 
