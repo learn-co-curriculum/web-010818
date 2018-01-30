@@ -11,3 +11,4 @@
 11. [Testing!!](https://youtu.be/Q5ZFVeD6RaQ) | [Code](https://github.com/learn-co-students/web-010818/tree/master/10_testing_with_rspec)
 12. [Cli app to Rack App](http://youtu.be/lQxlNy-zxU8) | [Code](https://github.com/learn-co-students/web-010818/tree/master/11_rack_example)
 13. [Sinatra MVC](https://youtu.be/mJFJYYxpCSc) | [Code](https://github.com/learn-co-students/web-010818/tree/master/12_sinatra_mvc)
+14. Sinatra Scheduler (Forms) | [Code](https://github.com/learn-co-curriculum/sinatra-scheduler/tree/solution)
