@@ -1,3 +1,4 @@
+## Mod 1
 1. [APIs & Hashes](https://youtu.be/8jf7I0KLGhg) | [Code](https://github.com/learn-co-students/web-010818/tree/master/02_apis)
 2. [Object-Oriented Programming](https://youtu.be/R1yV-wDqyrs) | [Code](https://github.com/learn-co-students/web-010818/tree/master/03_oo_programming)
 3. [Object-Oriented Relationships](https://youtu.be/tJw_i55RWvA) | [Code](https://github.com/learn-co-students/web-010818/tree/master/04_oo_relationships)
@@ -9,6 +10,9 @@
 9. [Active Record: _has_many_through_ ](https://www.youtube.com/watch?v=SuJOaIYwyAY) | [Code](https://github.com/learn-co-students/web-010818/tree/master/09_activerecord_has_many_through)
 10. [OO - Review](https://youtu.be/aTCmK5-7j5I)
 11. [Testing!!](https://youtu.be/Q5ZFVeD6RaQ) | [Code](https://github.com/learn-co-students/web-010818/tree/master/10_testing_with_rspec)
+
+ ## Mod 2
 12. [Cli app to Rack App](http://youtu.be/lQxlNy-zxU8) | [Code](https://github.com/learn-co-students/web-010818/tree/master/11_rack_example)
 13. [Sinatra MVC](https://youtu.be/mJFJYYxpCSc) | [Code](https://github.com/learn-co-students/web-010818/tree/master/12_sinatra_mvc)
 14. [Sinatra Scheduler](https://youtu.be/xCBZj_lYYxU) | [Code](https://github.com/learn-co-students/web-010818/tree/master/13_sinatra_scheduler)
+15. [Sinatra & ActiveRecord Complex Forms] _(video coming soon)_ | [Code](https://github.com/learn-co-curriculum/sinatra-and-ar-complex-forms-web-010818/)
