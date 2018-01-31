@@ -15,4 +15,4 @@
 12. [Cli app to Rack App](http://youtu.be/lQxlNy-zxU8) | [Code](https://github.com/learn-co-students/web-010818/tree/master/11_rack_example)
 13. [Sinatra MVC](https://youtu.be/mJFJYYxpCSc) | [Code](https://github.com/learn-co-students/web-010818/tree/master/12_sinatra_mvc)
 14. [Sinatra Scheduler](https://youtu.be/xCBZj_lYYxU) | [Code](https://github.com/learn-co-students/web-010818/tree/master/13_sinatra_scheduler)
-15. [Sinatra & ActiveRecord Complex Forms] _(video coming soon)_ | [Code](https://github.com/learn-co-curriculum/sinatra-and-ar-complex-forms-web-010818/)
+15. [Sinatra & ActiveRecord Complex Forms] (https://www.youtube.com/watch?v=2APPhduOjwc) | [Code](https://github.com/learn-co-curriculum/sinatra-and-ar-complex-forms-web-010818/)
