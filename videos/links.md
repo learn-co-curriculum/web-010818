@@ -16,3 +16,4 @@
 13. [Sinatra MVC](https://youtu.be/mJFJYYxpCSc) | [Code](https://github.com/learn-co-students/web-010818/tree/master/12_sinatra_mvc)
 14. [Sinatra Scheduler](https://youtu.be/xCBZj_lYYxU) | [Code](https://github.com/learn-co-students/web-010818/tree/master/13_sinatra_scheduler)
 15. [Sinatra & ActiveRecord Complex Forms] (https://www.youtube.com/watch?v=2APPhduOjwc) | [Code](https://github.com/learn-co-curriculum/sinatra-and-ar-complex-forms-web-010818/)
+16. [Intro to Rails!](https://youtu.be/RLfaf4vcw2w) | [Code](https://github.com/learn-co-students/web-010818/tree/master/14_intro_to_rails)
