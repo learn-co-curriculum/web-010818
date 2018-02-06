@@ -18,4 +18,4 @@
 15. [Sinatra & ActiveRecord Complex Forms](https://www.youtube.com/watch?v=2APPhduOjwc) | [Code](https://github.com/learn-co-curriculum/sinatra-and-ar-complex-forms-web-010818/)
 16. [Intro to Rails!](https://youtu.be/RLfaf4vcw2w) | [Code](https://github.com/learn-co-students/web-010818/tree/master/14_intro_to_rails)
 17. [Rails `form_for` & CRUD](http://youtu.be/ibJQGisPnD4) | [Code](https://github.com/learn-co-curriculum/rails-form_for-crud-web-010818)
-18. [Rails with ActiveRecord Validations]_video coming soon_ | [Code](https://github.com/learn-co-curriculum/student-lister-rails-web-012918)
+18. [Rails with ActiveRecord Validations](http://youtu.be/04fcRdITqn4) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-web-012918)
