@@ -20,3 +20,4 @@
 17. [Rails `form_for` & CRUD](http://youtu.be/ibJQGisPnD4) | [Code](https://github.com/learn-co-curriculum/rails-form_for-crud-web-010818)
 18. [Rails with ActiveRecord Validations](http://youtu.be/04fcRdITqn4) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-web-012918)
 19. [Rails Sessions pt i](http://youtu.be/aM27W3aONvI) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-web-012918)
+20. [Rails Sessions pt ii (passwords)](http://youtu.be/EkYu-Q1skj4) | Same repo as above
