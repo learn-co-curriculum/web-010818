@@ -32,7 +32,6 @@
 
 ## Wednesday, January 24, 2018
 
-* Christina Collura
 * Anna Yang
 * Joshua Ticzon
 
@@ -71,7 +70,6 @@
 ## Tuesday, February 6, 2018
 
 * Jonathan Mines
-* Christina Collura
 * Tania Aparicio
 
 ## Wednesday, February 7, 2018
@@ -114,7 +112,6 @@
 ## Tuesday, February 27, 2018
 
 * Jonathan Mines
-* Christina Collura
 * Tania Aparicio
 
 ## Wednesday, February 28, 2018
@@ -157,7 +154,6 @@
 ## Tuesday, March 20, 2018
 
 * Jonathan Mines
-* Christina Collura
 * Tania Aparicio
 
 ## Wednesday, March 21, 2018
@@ -197,7 +193,6 @@
 
 ## Friday, April 6, 2018
 
-* Christina Collura
 * Tania Aparicio
 * Anna Yang
 * Joshua Ticzon
