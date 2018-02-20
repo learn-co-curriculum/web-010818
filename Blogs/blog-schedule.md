@@ -81,27 +81,28 @@
 
 ## Tuesday, February 20, 2018
 
-* Fei Hafferkamp
-* Fara Obatusin
-* Torre Johnson
+* RESCHEDULED
 
 ## Wednesday, February 21, 2018
 
 * Travis Redwood
 * Kristina Diamond
 * Matt Jackson
+* Fei Hafferkamp
 
 ## Thursday, February 22, 2018
 
 * Morganne Gagne
 * Katy Carr
 * Josh Deiner
+* Fara Obatusin
 
 ## Friday, February 23, 2018
 
 * Cristy Lucke
 * Declanm Mulligan
 * Osama Miro
+* Torre Johnson
 
 ## Monday, February 26, 2018
 
