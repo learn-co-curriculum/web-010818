@@ -21,3 +21,6 @@
 18. [Rails with ActiveRecord Validations](http://youtu.be/04fcRdITqn4) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-web-012918)
 19. [Rails Sessions pt i](http://youtu.be/aM27W3aONvI) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-web-012918)
 20. [Rails Sessions pt ii (passwords)](http://youtu.be/EkYu-Q1skj4) | Same repo as above
+
+## Mod 3 
+21. [JS Intro](https://youtu.be/KsOdV-uG4Qw)
