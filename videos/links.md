@@ -23,4 +23,4 @@
 20. [Rails Sessions pt ii (passwords)](http://youtu.be/EkYu-Q1skj4) | Same repo as above
 
 ## Mod 3 
-21. [JS Intro](https://youtu.be/KsOdV-uG4Qw)
+21. [JS Intro](https://youtu.be/KsOdV-uG4Qw) | [Code](https://github.com/learn-co-students/web-010818/tree/master/17_js_intro)
