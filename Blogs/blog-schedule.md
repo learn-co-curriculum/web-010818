@@ -99,24 +99,25 @@
 
 ## Friday, February 23, 2018
 
+* RESCHEDULED
+
+## Monday, February 26, 2018
+
 * Cristy Lucke
 * Declanm Mulligan
 * Osama Miro
 * Torre Johnson
 
-## Monday, February 26, 2018
+## Tuesday, February 27, 2018
 
 * Vic Patel
 * Alexander Gutterman
 * Alex Katalkin
 
-## Tuesday, February 27, 2018
+## Wednesday, February 28, 2018
 
 * Jonathan Mines
 * Tania Aparicio
-
-## Wednesday, February 28, 2018
-
 * Anna Yang
 * Joshua Ticzon
 
