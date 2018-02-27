@@ -110,11 +110,15 @@
 
 ## Tuesday, February 27, 2018
 
+* RESCHEDULED
+
+## Wednesday, February 28, 2018
+
 * Vic Patel
 * Alexander Gutterman
 * Alex Katalkin
 
-## Wednesday, February 28, 2018
+## Thursday, March 1, 2018
 
 * Jonathan Mines
 * Tania Aparicio
