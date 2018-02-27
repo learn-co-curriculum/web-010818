@@ -24,3 +24,4 @@
 
 ## Mod 3 
 21. [JS Intro](https://youtu.be/KsOdV-uG4Qw) | [Code](https://github.com/learn-co-students/web-010818/tree/master/17_js_intro)
+22. [Moar DOM](https://www.youtu.be/sKYsfY7lSaY) | [Code](https://github.com/learn-co-students/web-010818/tree/master/20_moar_dom)
