@@ -120,6 +120,10 @@
 
 ## Thursday, March 1, 2018
 
+* RESCHEDULED
+
+## Monday, March 5, 2018
+
 * Jonathan Mines
 * Tania Aparicio
 * Anna Yang
