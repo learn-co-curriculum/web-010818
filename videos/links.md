@@ -29,3 +29,4 @@
 ## Mod 4
 
 25. [React and events](https://www.youtube.com/watch?v=p1V0g15btDs) | [Code](https://github.com/learn-co-students/web-010818/tree/master/25_react_events) 
+26. [React Forms](https://youtu.be/8DDx2o-pHvg)
