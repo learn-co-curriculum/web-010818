@@ -25,3 +25,7 @@
 ## Mod 3 
 21. [JS Intro](https://youtu.be/KsOdV-uG4Qw) | [Code](https://github.com/learn-co-students/web-010818/tree/master/17_js_intro)
 22. [Moar DOM](https://www.youtu.be/sKYsfY7lSaY) | [Code](https://github.com/learn-co-students/web-010818/tree/master/20_moar_dom)
+
+## Mod 4
+
+25. [React and events](https://www.youtube.com/watch?v=p1V0g15btDs) | [Code](https://github.com/learn-co-students/web-010818/tree/master/25_react_events) 
