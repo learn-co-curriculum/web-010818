@@ -159,7 +159,6 @@
 
 * Vic Patel
 * Alexander Gutterman
-* Alex Katalkin
 
 ## Tuesday, March 20, 2018
 
@@ -170,6 +169,7 @@
 
 * Anna Yang
 * Joshua Ticzon
+* Alex Katalkin
 
 # Module 5
 
