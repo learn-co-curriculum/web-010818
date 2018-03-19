@@ -167,7 +167,6 @@
 
 ## Wednesday, March 21, 2018
 
-* Anna Yang
 * Joshua Ticzon
 * Alex Katalkin
 
@@ -204,5 +203,4 @@
 ## Friday, April 6, 2018
 
 * Tania Aparicio
-* Anna Yang
 * Joshua Ticzon
