@@ -165,7 +165,7 @@
 * Jonathan Mines
 * Tania Aparicio
 
-## Wednesday, March 21, 2018
+## Thursday, March 22, 2018
 
 * Joshua Ticzon
 * Alex Katalkin
