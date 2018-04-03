@@ -172,35 +172,30 @@
 
 # Module 5
 
-## Monday, April 2, 2018
+## Monday, April 9, 2018
 
 * Fei Hafferkamp
 * Fara Obatusin
 * Torre Johnson
 * Travis Redwood
 
-## Tuesday, April 3, 2018
+## Tuesday, April 10, 2018
 
 * Kristina Diamond
 * Matt Jackson
 * Morganne Gagne
 * Katy Carr
 
-## Wednesday, April 4, 2018
+## Wednesday, April 11, 2018
 
-* Josh Deiner
+* Tania Aparicio
 * Cristy Lucke
-* Declanm Mulligan
+* Joshua Ticzon
 * Osama Miro
 
-## Thursday, April 5, 2018
+## Thursday, April 12, 2018
 
 * Vic Patel
 * Alexander Gutterman
 * Alex Katalkin
 * Jonathan Mines
-
-## Friday, April 6, 2018
-
-* Tania Aparicio
-* Joshua Ticzon
