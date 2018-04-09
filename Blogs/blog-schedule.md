@@ -176,12 +176,12 @@
 
 * Fei Hafferkamp
 * Fara Obatusin
-* Torre Johnson
+* Kristina Diamond
 * Travis Redwood
 
 ## Tuesday, April 10, 2018
 
-* Kristina Diamond
+* Torre Johnson
 * Matt Jackson
 * Morganne Gagne
 * Katy Carr
