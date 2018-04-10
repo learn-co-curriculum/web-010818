@@ -186,14 +186,14 @@
 * Morganne Gagne
 * Katy Carr
 
-## Wednesday, April 11, 2018
+## Thursday, April 12, 2018
 
 * Tania Aparicio
 * Cristy Lucke
 * Joshua Ticzon
 * Osama Miro
 
-## Thursday, April 12, 2018
+## Friday, April 13, 2018
 
 * Vic Patel
 * Alexander Gutterman
